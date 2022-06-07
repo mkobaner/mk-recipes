@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T11:28:33.279Z" agent="5.0 (Windows)" version="19.0.2" etag="4Wa43gRFRMsDZ8Y-GRgr" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-07T11:48:14.418Z" agent="5.0 (Windows)" etag="CNmfw71RFwDEJsQng9yB" version="19.0.2" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="862" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="StHW1D7LGM_vyT1Nr_OI-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;div&gt;Start&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="310" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="StHW1D7LGM_vyT1Nr_OI-0" target="StHW1D7LGM_vyT1Nr_OI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-0" value="Declare number of players" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="StHW1D7LGM_vyT1Nr_OI-2" target="StHW1D7LGM_vyT1Nr_OI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-2" value="Add 1 to number of players ( this player is npc humans and 1 npc are players)" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="StHW1D7LGM_vyT1Nr_OI-4" target="StHW1D7LGM_vyT1Nr_OI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-4" value="&lt;div&gt;Declare i = 0&lt;/div&gt;&lt;div&gt;Declare MN(Magic number)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="StHW1D7LGM_vyT1Nr_OI-6" target="StHW1D7LGM_vyT1Nr_OI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="StHW1D7LGM_vyT1Nr_OI-6" target="StHW1D7LGM_vyT1Nr_OI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-6" value="i &amp;lt; 100" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-8" value="No write console its a draw" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="StHW1D7LGM_vyT1Nr_OI-10" target="StHW1D7LGM_vyT1Nr_OI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-10" value="Yes" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="StHW1D7LGM_vyT1Nr_OI-12" target="StHW1D7LGM_vyT1Nr_OI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="StHW1D7LGM_vyT1Nr_OI-12" target="StHW1D7LGM_vyT1Nr_OI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-12" value="i/MN=0" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="StHW1D7LGM_vyT1Nr_OI-14" target="StHW1D7LGM_vyT1Nr_OI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="StHW1D7LGM_vyT1Nr_OI-14" target="StHW1D7LGM_vyT1Nr_OI-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-14" value="Yes, player said boom" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-16" value="&lt;div&gt;Yes &lt;br&gt;&lt;/div&gt;&lt;div&gt;i+1, go to next player and repeat step 3&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-18" value="No write sorry you lost" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1110" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="StHW1D7LGM_vyT1Nr_OI-20" target="StHW1D7LGM_vyT1Nr_OI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="StHW1D7LGM_vyT1Nr_OI-20" target="StHW1D7LGM_vyT1Nr_OI-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-20" value="No, ask player to enter a number is number equal to i " style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StHW1D7LGM_vyT1Nr_OI-23" value="No write sorry you lost the game" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
